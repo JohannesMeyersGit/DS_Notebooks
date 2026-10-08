@@ -1,0 +1,10 @@
+{
+  "seed": 42,
+  "images_per_class": 40,
+  "source": "Wikimedia Commons",
+  "species": {
+    "Lachmöwe": "Chroicocephalus ridibundus",
+    "Silbermöwe": "Larus argentatus"
+  },
+  "note": "Morphology-like features are synthetic teaching features and image features are extracted from downloaded images."
+}
