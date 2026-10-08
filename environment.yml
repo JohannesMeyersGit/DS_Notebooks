@@ -1,0 +1,11 @@
+name: ds-notebooks
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab=4.2
+  - ipykernel=6.29
+  - pandas=2.2
+  - matplotlib-base=3.9
+  - scikit-learn=1.5
+  - pillow=10.4
